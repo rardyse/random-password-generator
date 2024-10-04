@@ -1,4 +1,4 @@
-# random-password-generator :
+# random-password-generator 
 
 ## quick presentation : 
 
@@ -11,5 +11,13 @@ alphabet = string.ascii_letters + string.digits + string.punctuation  #types of 
 ```
 this script could ensure your password is secure and meets typical security requirements by coding it by your own ;)
 
-## 
+## inspiration :
+
+- book = Python pour les Nuls, 3e édition 
+
+### of course you are absolutely free to re-use it and re-style it as you need and wish :)
+
+a pleasure!
+
+luna xx
 
